@@ -67,7 +67,7 @@ blastn -version
 
 ```bash
 # Install from source
-git clone https://github.com/yourusername/genehomology.git
+git clone https://github.com/JingGuo1997/genehomology.git
 cd genehomology
 pip install -e .
 ```
