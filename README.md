@@ -154,8 +154,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- 🐛 [Report Bug](https://github.com/yourusername/genehomology/issues)
-- 💡 [Request Feature](https://github.com/yourusername/genehomology/issues)
-- 📖 [Documentation](https://github.com/yourusername/genehomology/wiki)
+- 🐛 [Report Bug](https://github.com/JingGuo1997/genehomology/issues)
+- 💡 [Request Feature](https://github.com/JingGuo1997/genehomology/issues)
+- 📖 [Documentation](https://github.com/JingGuo1997/genehomology/wiki)
 
 ## ⭐ If this project helps you, please give us a star! 
